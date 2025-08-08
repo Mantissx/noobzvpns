@@ -32,11 +32,11 @@ yum update && yum install git
 ```
 ##### Install / Upgrade
 ```bash
-git clone https://github.com/noobz-id/noobzvpns.git && noobzvpns/install.sh
+git clone https://github.com/figogove/noobzvpns.git && noobzvpns/install.sh
 ```
 ##### Full Uninstall
 ```bash
-git clone https://github.com/noobz-id/noobzvpns.git && noobzvpns/uninstall.sh
+git clone https://github.com/figogove/noobzvpns.git && noobzvpns/uninstall.sh
 ```
 
 
